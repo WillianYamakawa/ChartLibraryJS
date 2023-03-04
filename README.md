@@ -4,6 +4,10 @@ Developed by Willian Yamakawa Souza
 
 Dependency: JQuery
 
+Example:
+![Captura de Tela (4)](https://user-images.githubusercontent.com/84150755/222928955-e7dc79f2-59fb-4201-9977-ae69af8bd302.png)
+![Captura de Tela (5)](https://user-images.githubusercontent.com/84150755/222928956-ae9faddf-df86-4884-b58b-07b42abb3a43.png)
+
 Usage Example:
 
 ```js
@@ -59,6 +63,3 @@ BarChart.load("chart2",
         ],
     });
 ```
-![Captura de Tela (4)](https://user-images.githubusercontent.com/84150755/222928955-e7dc79f2-59fb-4201-9977-ae69af8bd302.png)
-![Captura de Tela (5)](https://user-images.githubusercontent.com/84150755/222928956-ae9faddf-df86-4884-b58b-07b42abb3a43.png)
-
